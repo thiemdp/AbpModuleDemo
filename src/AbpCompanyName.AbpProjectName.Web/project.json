@@ -1,0 +1,9 @@
+{
+  "buildOptions": {
+    "embed": {
+      "include": [
+        "Views/**/*.*"
+      ]
+    }
+  }
+}
